@@ -5,7 +5,7 @@
 #### professor  
 권혁철 교수님  
 
->How to install the program and summary of what I've learned  
+>[How to install the program and summary of what I've learned](https://github.com/ji-one/SoftwareExperiment_2020/wiki)
 
 #### assignment list  
 - Week 1 TextView
