@@ -2,12 +2,9 @@
 
 ######  (2020.05.29 git push --force 명령어 잘못 써서 몽땅 날려먹고 복구중)  
 
-#### professor  
-권혁철 교수님  
-
 >[How to install the program and summary of what I've learned](https://github.com/ji-one/SoftwareExperiment_2020/wiki)
 
-#### assignment list  
+#### Lab List
 - Week 1 TextView
 - Week 2 Communication, Notification, Service, Alarm Ex  
 - Week 3 No assignment  
