@@ -1,2 +1,2 @@
-# Communication, Notification, Service, Alarm Tutorial
+# Communication, Notification, Service, Alarm Ex
 - Implement the example above.  
