@@ -1,4 +1,4 @@
-# Software Design and Experiment_2020
+# software-experiment-2020
 
 ######  ~~(2020.05.29 git push --force 명령어 잘못 써서 몽땅 날려먹고 복구중)~~ 2020.07.30 복구 끝! 
 
